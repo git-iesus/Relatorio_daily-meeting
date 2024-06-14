@@ -74,7 +74,7 @@ sleep(1)
 
 ptg.typewrite('Totais pre-reuniao diaria [17h30]')
 ptg.press('enter')
-ptg.typewrite('=======================================================')
+ptg.typewrite('===================================')
 ptg.press('enter')
 ptg.press('enter')
 ptg.typewrite(f'* Consolid: 	{consolid}')
