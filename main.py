@@ -29,12 +29,12 @@ sleep(0.3)
 ptg.keyUp('ctrl')
 sleep(0.5)
 
-for i in range(24):
+for i in range(12):
     ptg.press('down')
     ptg.hotkey('ctrl','v')
     sleep(0.1)
 
-for i in range(17):
+for i in range(5):
     ptg.press('up')
 
 #COLETAR CONSOLID
